@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Лютик</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Иванова Софья</string>
+    <string name="nav_header_subtitle">ID:01239123949</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Настройки</string>
+
+    <string name="menu_home">Главная</string>
+    <string name="menu_gallery">Категории</string>
+    <string name="menu_slideshow">Корзина</string>
+
+    <string name="search">Поиск</string>
+    <string name="shop">Популярное</string>
+    <string name="to_busket">В корзину</string>
+
+    <string name="bread_cat">Хлебобулочные</string>
+    <string name="milk_cat">Молочные</string>
+    <string name="drinks_cat">Напитки</string>
+    <string name="pasta_cat">Макаронные</string>
+    <string name="cereals_cat">Крупы</string>
+    <string name="other_cat">Другие</string>
+
+    <string name="milk_name">Молоко</string>
+    <string name="bread_name">Хлеб</string>
+    <string name="cola_name">Coca Cola</string>
+
+    <string name="to_order">Оформить заказ</string>
+</resources>
