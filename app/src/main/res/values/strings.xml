@@ -27,4 +27,9 @@
     <string name="cola_name">Coca Cola</string>
 
     <string name="to_order">Оформить заказ</string>
+
+    <string name="log_in">Вход</string>
+    <string name="log_in_name">Логин:</string>
+    <string name="password">Пароль:</string>
+    <string name="sign_in">Войти</string>
 </resources>
